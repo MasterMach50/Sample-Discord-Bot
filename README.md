@@ -1,0 +1,3 @@
+# Sample Discord Bot
+
+[Depreciated]
